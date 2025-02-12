@@ -1,0 +1,17 @@
+
+> wellteras@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.1.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.2.122:3000
+   - Environments: .env
+
+ ✓ Starting...
+   skipping / (conflict)
+ ✓ Ready in 1180ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 1163ms
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1047ms
+ GET / 500 in 2329ms
